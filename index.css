@@ -3,3 +3,14 @@ body {
     padding: 2px;
 }
 
+header {
+    /* display: flex; */
+}
+
+nav {
+    align-content: space-around;
+    background-color: deepskyblue;
+    display: flex;
+    /* flex-wrap: nowrap;
+    flex-direction: column; */
+}
